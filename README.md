@@ -1,3 +1,6 @@
+This repository was migrated and might be deleted in the future.
+Please refer to https://github.com/Shidacea/Shipectral for the new repository.
+
 # Shipectral
 
 Shipectral is planned to be a port of the Shidacea core library SDCLib to the Crystal language.
